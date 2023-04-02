@@ -8,8 +8,10 @@ Data: Title, genre, studio, profitability and ratings for movies
 ### Techniques used:
 
 Data cleaning
--checking missing data and removing
--Outlier Removal
+-checking missing data
+
+-Removal of Outlier
+
 -Removal of duplicates
 
 #### Exploratory Data Analysis
